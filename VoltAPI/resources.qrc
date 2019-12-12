@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/ICONS">
+        <file alias="PDISABLED">assests/plug32_disabled.png</file>
+        <file alias="PGREEN">assests/plug32_green.png</file>
+        <file alias="PRED">assests/plug32_red.png</file>
+        <file alias="CALENDAR">assests/calendar.png</file>
+        <file alias="CLOCK">assests/clock.png</file>
+        <file alias="TEMP">assests/temp.png</file>
+        <file alias="UPTIME">assests/uptime.png</file>
+    </qresource>
+</RCC>
